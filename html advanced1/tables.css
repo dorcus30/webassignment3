@@ -1,0 +1,32 @@
+table {
+   border-collapse: collapse;
+   border-spacing: 0;
+   width: 70%;
+   border: 1px solid blueviolet;
+   background-color: rgb(253, 252, 252);
+ }
+ 
+ th, td {
+   text-align: left;
+   padding: 16px;
+ }
+
+ 
+ 
+  
+ 
+   
+ body{
+    background-color:rgb(254, 254, 253);
+    margin-left: 100px;
+ }
+ a{
+   text-decoration: none;
+   color:white;
+   font-size: 18px;
+}
+button{
+   background-color: rgb(179, 4, 182);
+   border: none;
+   padding: 10px 20px;
+}

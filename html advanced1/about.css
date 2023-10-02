@@ -1,0 +1,38 @@
+.p-1 {
+    color:rgb(29, 67, 236);
+    font-weight: 500;
+    font-size: 30px;
+}
+.p-2 {
+    color:#c00dd8;
+}
+.p-3 {
+    color:rgb(15, 159, 68);
+}
+.p-4 {
+    color:#464249;
+}
+.p-5 {
+    color:rgb(229, 133, 16);
+}
+
+
+
+body{
+    background-color:rgb(254, 254, 253);
+    text-align: center;
+    }
+button{
+    background-color: rgb(179, 4, 182);
+    border: none;
+    padding: 10px 20px;
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+}
+h1{
+
+    font-size: 40px;
+}

@@ -1,0 +1,20 @@
+button{
+    background-color: rgb(179, 4, 182);
+    border: none;
+    padding: 10px 20px;
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+}
+
+h1{
+   color: rgb(22, 22, 50); 
+   font-size: 30px;
+}
+body{
+
+
+    background-color: rgb(254, 254, 253);
+}
